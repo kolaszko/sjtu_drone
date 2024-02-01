@@ -6,7 +6,7 @@ from geometry_msgs.msg import Twist, Pose
 """ 
 Wybrany znak:
 Pętla:
- 
+Płaszczyzna:
 """
 
 
