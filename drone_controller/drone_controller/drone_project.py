@@ -3,6 +3,12 @@ from rclpy.node import Node
 
 from geometry_msgs.msg import Twist, Pose
 
+""" 
+Wybrany znak:
+Pętla:
+ 
+"""
+
 
 class DroneController(Node):
     def __init__(self):
