@@ -24,8 +24,6 @@ Make sure to install the common gazebo models, for more see the [Readme in sjtu_
 
 # Run
 
-## ROS 2 Source Installation
-
 1. Start gazebo, spawn drone, open teleop in xterm window, and open rviz:   
 `ros2 launch  sjtu_drone_bringup sjtu_drone_bringup.launch.py`
 2. Takeoff drone:   
